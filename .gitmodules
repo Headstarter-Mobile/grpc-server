@@ -1,0 +1,4 @@
+[submodule "Protos"]
+	path = protos
+	url = https://github.com/Headstarter-Mobile/protos
+	branch = main
