@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/Headstarter-Mobile/grpc-server#readme",
   "dependencies": {
-    "@grpc/grpc-js": "^1.12.6",
+    "@grpc/grpc-js": "^1.13.2",
     "@grpc/proto-loader": "^0.7.13",
-    "pg": "^8.13.3"
+    "argon2": "^0.41.1",
+    "google-protobuf": "^3.21.4",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.14.1"
   }
 }
